@@ -212,10 +212,10 @@ with st.sidebar:
     st.markdown("200 customers | 5 features")
     st.markdown("---")
     st.markdown("### 🔗 Links")
-    st.markdown("- [GitHub Repository](#)")
-    st.markdown("- [Dataset (Kaggle)](#)")
+    st.markdown("- [GitHub Repository](https://github.com/anshika494/Customer-segmentation)")
+    st.markdown("- [Dataset (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)")
     st.markdown("---")
-    st.markdown("Built with ❤️ using **Streamlit** + **Scikit-learn**")
+    st.markdown("Built using **Streamlit** + **Scikit-learn**")
 
 # ── Load Data ─────────────────────────────────────────────────────────────────
 df, X_raw, X_scaled, km, labels, centroids_raw, sil, db, scaler = load_and_cluster(n_clusters)
