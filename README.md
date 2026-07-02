@@ -220,10 +220,6 @@ customer_segmentation/
 
 ---
 
-## 👩‍💻 Author
-
-Built with ❤️ for a **GitHub portfolio project** and **ML interview preparation**.
-
 > *"Data-driven segmentation is the foundation of modern personalised marketing."*
 
 ---
